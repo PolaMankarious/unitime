@@ -10,14 +10,14 @@ A Platform and a scheduling system for college students.
 - Load tasks from a file on startup
 
 ## Requirements (as understood)
-1. **REQ-01**:
-2. **REQ-02**: 
-3. **REQ-03**: 
-4. **REQ-04**: 
-5. **REQ-05**:
-6. **REQ-06**: 
-7. **REQ-07**: 
-8. **REQ-08**: 
+1. **REQ-01**:Exam Results Management - Student View
+2. **REQ-02**:Exam Results Management - Admin Input
+3. **REQ-03**:Scheduling Assistant - Priority Sorting
+4. **REQ-04**:Room Booking and Management
+5. **REQ-05**:Schedule Viewing - Personal
+6. **REQ-06**:Schedule Viewing - Admin Override
+7. **REQ-07**:Event and Group Viewing
+8. **REQ-08**:Data Loading from File
 
 ## Technologies Used
 - Java 
